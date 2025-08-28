@@ -1,10 +1,3 @@
-
----
-
-## 📝 **Code Skeleton**
-
-### `ChatBot.java`
-```java
 package chatbot;
 
 import java.util.Scanner;
