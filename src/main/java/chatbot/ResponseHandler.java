@@ -1,7 +1,5 @@
 package chatbot;
 
-import java.util.regex.*;
-
 public class ResponseHandler {
 
     public String getResponse(String input) {
@@ -25,4 +23,5 @@ public class ResponseHandler {
         }
     }
 }
+
 
